@@ -1,0 +1,10 @@
+{
+  "description": "Delivers a professional, clean, and user-friendly website design that enhances brand credibility and improves user engagement for businesses.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
